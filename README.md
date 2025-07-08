@@ -5,4 +5,4 @@
     -Remainder: underdevorlop <br>
     -Scheldul: Underdevorlop <br>
     -SaveFile(Save your Data): Underdevorlop <br> <\p>
-First Java Independent Project 
+First Java Solo Project 
